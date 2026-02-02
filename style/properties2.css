@@ -1,0 +1,31 @@
+body {background-color: black;}
+.wrap {
+    margin:0 auto;
+    width:402px;height:874px;
+    padding:50px 30px;
+    text-align: center;}
+.wrap > * {margin-bottom:30px;}
+.wrap h2 {
+    font-weight: 600;
+    font-size:1.5em;
+    color: rgb(234, 255, 0);
+    margin-bottom:20px;
+}
+.wrap p {color:white;}
+.wrap p em {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 0, 0);
+font-weight: 600;
+}
+.wrap p:nth-child(2) {margin-bottom:10px;}
+.wrap p:nth-child(5) {margin-bottom:10px;}
+.wrap #content span {color: rgb(0, 255, 13);}
+.wrap h3 {
+    font-weight: 600;
+    font-size:1.5em;
+    margin-bottom:20px;
+    color:darkorange
+}
+.wrap .details {color: rgb(0, 255, 13);}
+.wrap .details em {color: rgb(128, 0, 255);}
+
