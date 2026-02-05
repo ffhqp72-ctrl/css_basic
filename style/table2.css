@@ -1,0 +1,14 @@
+#wrap {text-align: center;}
+#wrap #pay {width:1020px;margin:15px auto 0;background-color: blanchedalmond;}
+#wrap #pay thead {}
+#wrap #pay thead tr {}
+#wrap #pay thead tr th {font-weight:700;}
+#wrap #pay thead tr:nth-child(1) {border-top:2px solid black;border-bottom:2px dotted black;}
+#wrap #pay thead tr:nth-child(2) {border-bottom:2px solid black;}
+#wrap #pay thead tr:nth-child(1) em {font-size:0.75rem; color: #ff0000;}
+#wrap #pay thead tr:nth-child(2) em {font-size:0.75rem; color: #9e5e5e;}
+
+#wrap #pay tbody {}
+#wrap #pay tbody tr {border-bottom:1px solid black;}
+#wrap #pay tbody tr th {padding: 14px;width:350px;}
+#wrap #pay tbody tr td {padding: 14px;}
